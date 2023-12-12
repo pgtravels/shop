@@ -16,6 +16,10 @@
       body {
         background-color: rgb(235,171,52)
       }
+
+      #list {
+            text-align: center;
+      }
       
 </style>
 
