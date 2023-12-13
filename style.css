@@ -1,7 +1,5 @@
 <style>
-      h1 {
-            text-align:center;
-      }
+     
       table {
             border-collapse:collapse; 
             width:100%;
@@ -17,6 +15,10 @@
       }
 
       #list {
+            text-align: center;
+            
+      }
+      h1 {
             text-align: center;
       }
       
